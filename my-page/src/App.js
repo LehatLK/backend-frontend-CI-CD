@@ -4,7 +4,7 @@ import TextField from './TextField';
 function App() {
   return (
     <div classname="theHeader">
-      <header><h1>winter is comming</h1></header>
+      <header><h1>winter is coming</h1></header>
       <div classname="infoDiv">
         <TextField/>
       </div>

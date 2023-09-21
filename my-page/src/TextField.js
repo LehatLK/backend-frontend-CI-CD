@@ -20,7 +20,7 @@ function TextField() {
             placeholder='who are you looking for?'
         />
         <button onClick={handleSearchClick}>search</button>
-        <p>You are looking for: {text}</p>
+        {/* <p>You are looking for: {text}</p> */}
             </div>
     );
 }
